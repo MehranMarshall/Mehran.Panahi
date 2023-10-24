@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehran.Panahi
+- 👋 Hi, I’m @MehranMarshall
 - 👀 I’m interested in windows app developing and web developing
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
